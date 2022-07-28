@@ -11,7 +11,7 @@ for (let i = 0; i < 8; i++) {
     }">
             </div>
             <div class="portfolio__info">
-                <p>Portafolio ${i + 1}</p>
+                <p>Portafolio ${i + 1} </p>
                 <a href="https://github.com/bsqmAcademlo/assets_portfolios" target="_blank">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512">
                         <path
