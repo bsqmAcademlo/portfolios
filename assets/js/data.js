@@ -1,0 +1,80 @@
+export const dataPortfolios = [
+    {
+        id: 1,
+        title: "Portafolio 1",
+        imgSmall: "./assets/images/img1.PNG",
+        imgBig: "./assets/portfolios/p1.jpg",
+    },
+    {
+        id: 2,
+        title: "Portafolio 2",
+        imgSmall: "./assets/images/img2.PNG",
+        imgBig: "./assets/portfolios/p2.jpg",
+    },
+    {
+        id: 3,
+        title: "Portafolio 3",
+        imgSmall: "./assets/images/img3.PNG",
+        imgBig: "./assets/portfolios/p3.jpg",
+    },
+    {
+        id: 4,
+        title: "Portafolio 4",
+        imgSmall: "./assets/images/img4.PNG",
+        imgBig: "./assets/portfolios/p4.jpg",
+    },
+    {
+        id: 5,
+        title: "Portafolio 5",
+        imgSmall: "./assets/images/img5.PNG",
+        imgBig: "./assets/portfolios/p5.jpg",
+    },
+    {
+        id: 6,
+        title: "Portafolio 6",
+        imgSmall: "./assets/images/img6.PNG",
+        imgBig: "./assets/portfolios/p6.jpg",
+    },
+    {
+        id: 7,
+        title: "Portafolio 7",
+        imgSmall: "./assets/images/img7.PNG",
+        imgBig: "./assets/portfolios/p7.jpg",
+    },
+    {
+        id: 8,
+        title: "Portafolio 8",
+        imgSmall: "./assets/images/img8.PNG",
+        imgBig: "./assets/portfolios/p8.jpg",
+    },
+    {
+        id: 9,
+        title: "Portafolio 9",
+        imgSmall: "./assets/images/img9.PNG",
+        imgBig: "./assets/portfolios/p9.jpg",
+    },
+    {
+        id: 10,
+        title: "Portafolio 10",
+        imgSmall: "./assets/images/img10.PNG",
+        imgBig: "./assets/portfolios/p10.jpg",
+    },
+    {
+        id: 11,
+        title: "Portafolio 11",
+        imgSmall: "./assets/images/img11.PNG",
+        imgBig: "./assets/portfolios/p11.png",
+    },
+    {
+        id: 12,
+        title: "Portafolio 12",
+        imgSmall: "./assets/images/img12.PNG",
+        imgBig: "./assets/portfolios/p12.jpg",
+    },
+    {
+        id: 13,
+        title: "Portafolio 13",
+        imgSmall: "./assets/images/img13.PNG",
+        imgBig: "./assets/portfolios/p13.png",
+    },
+];
