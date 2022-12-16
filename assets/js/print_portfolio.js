@@ -2,7 +2,7 @@ const portfolios = document.querySelector("#portfolios");
 
 let html = "";
 
-for (let i = 0; i < 8; i++) {
+for (let i = 0; i < 13; i++) {
     html += `
         <div class="portfolio">
             <div class="portfolio__img">
